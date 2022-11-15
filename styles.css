@@ -133,3 +133,9 @@ body {
     padding: .25em .5em;
     cursor: pointer;
 }
+
+.winning-message button:hover {
+    background-color: black;
+    color: white;
+    border-color: white;
+}
