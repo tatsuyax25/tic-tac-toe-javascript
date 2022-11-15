@@ -122,4 +122,14 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    color: white;
+    font-size: 5rem;
+}
+
+.winning-message button {
+    font-size: 3rem;
+    background-color: white;
+    border: 1px solid black;
+    padding: .25em .5em;
+    cursor: pointer;
 }
